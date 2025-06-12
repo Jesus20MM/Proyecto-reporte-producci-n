@@ -13,10 +13,6 @@ El propósito de este análisis es identificar ineficiencias operativas relacion
 - **Power Query** para la limpieza y transformación previa de datos
 - **Inteligencia de Negocios** aplicada para la detección de patrones y la elaboración de dashboards
 
-> 💡 *También puedes incluir imágenes específicas como:*
-> - *Un gráfico de barras o líneas mostrando las devoluciones a lo largo del tiempo.*
-> - *Visualizaciones con segmentadores por tipo de distribuidor o vendedor.*
-> - *Mapas o gráficos que evidencien patrones regionales, si aplica.*
 
 ## 📂 Casos de uso
 
